@@ -17,5 +17,9 @@
   "license": "ISC",
   "devDependencies": {
     "vitepress": "^0.21.6"
+  },
+  "dependencies": {
+    "esbuild-darwin-64": "^0.14.17",
+    "node": "^17.4.0"
   }
 }
